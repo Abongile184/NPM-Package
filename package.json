@@ -1,0 +1,16 @@
+{
+  "name": "abongile-bundle",
+  "version": "1.0.0",
+  "description": "clickable dropdown",
+  "keywords": ["NPM", "First", "Package"],
+  "license": "ISC",
+  "author": "Abongile Mavela",
+  "type": "module",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  }
+}
